@@ -1,0 +1,6 @@
+llama_index.postprocessor.rankgpt_rerank
+llama-index-vector-stores-mongodb
+llama-index
+streamlit
+pymongo
+openai
